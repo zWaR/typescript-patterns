@@ -1,0 +1,26 @@
+{
+  "name": "typescript-patterns",
+  "version": "1.0.0",
+  "description": "Common Design Patterns implemented with TypeScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zWaR/typescript-patterns.git"
+  },
+  "keywords": [
+    "design",
+    "patterns"
+  ],
+  "author": "zWaR",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zWaR/typescript-patterns/issues"
+  },
+  "homepage": "https://github.com/zWaR/typescript-patterns#readme",
+  "devDependencies": {
+    "@types/node": "^10.12.18"
+  }
+}
