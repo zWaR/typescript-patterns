@@ -1,4 +1,4 @@
-import { VeggieBase } from '..';
+import { VeggieBase } from '.';
 
 export class Garlic extends VeggieBase {
 
