@@ -1,0 +1,18 @@
+export { PizzaBase } from './value-objects';
+export { CheesePizza } from './value-objects';
+export { EmptyPizza } from './value-objects';
+export { DoughBase } from './value-objects';
+export { SauceBase } from './value-objects';
+export { CheeseBase } from './value-objects';
+export { VeggieBase } from './value-objects';
+export { PepperoniBase } from './value-objects';
+export { ClamsBase } from './value-objects';
+export { ThinCrustDough } from './value-objects';
+export { MarinaraSauce } from './value-objects';
+export { ReggianoCheese } from'./value-objects';
+export { Garlic } from './value-objects';
+export { Onion } from './value-objects';
+export { Mushroom } from './value-objects';
+export { RedPepper } from './value-objects';
+export { SlicedPepperoni } from './value-objects';
+export { FreshClams } from './value-objects';
