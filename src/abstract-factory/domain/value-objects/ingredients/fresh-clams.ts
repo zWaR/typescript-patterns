@@ -1,4 +1,4 @@
-import { ClamsBase } from '.';
+import { ClamsBase } from '..';
 
 export class FreshClams extends ClamsBase {
 

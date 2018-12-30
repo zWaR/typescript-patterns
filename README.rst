@@ -2,14 +2,14 @@
 Typescript Patterns
 ===================
 
-Common design patterns implemented in TypeScript.
+Common design patterns implemented with TypeScript.
 
 *****************
 Featured Patterns
 *****************
 
-- Factory Method
-- Abstract Factory
+- Factory Method (Virtual Constructor)
+- Abstract Factory (Kit)
 
 Literature
 ==========

@@ -32,11 +32,8 @@ export class NYPizzaIngredientFactory implements PizzaIngredientFactoryInterface
   public createVeggies(): VeggieBase[] {
     const veggies: VeggieBase[] = [
       new Garlic(),
-
       new Onion(),
-
       new Mushroom(),
-
       new RedPepper(),
 
     ];

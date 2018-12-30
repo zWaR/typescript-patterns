@@ -1,5 +1,5 @@
-import { PizzaBase } from '.';
-import { PizzaIngredientFactoryInterface } from '../../service';
+import { PizzaBase } from '..';
+import { PizzaIngredientFactoryInterface } from '../../../service';
 
 export class EmptyPizza extends PizzaBase {
 

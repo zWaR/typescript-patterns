@@ -1,7 +1,7 @@
 import { NYPizzaStore, ChicagoPizzaStore } from './creators';
 import { PizzaBase } from './domain';
 
-class TryFactory {
+class TryFactoryMethod {
 
   public static run() {
     const nyStore: NYPizzaStore = new NYPizzaStore();
@@ -16,4 +16,4 @@ class TryFactory {
 
 }
 
-TryFactory.run();
+TryFactoryMethod.run();

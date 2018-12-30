@@ -1,4 +1,4 @@
-import { DoughBase } from '.';
+import { DoughBase } from '..';
 
 export class ThinCrustDough extends DoughBase {
 

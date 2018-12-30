@@ -5,7 +5,7 @@ export class NYPizzaStore extends PizzaStore {
 
   public createPizza(type: string): PizzaBase {
     switch(type) {
-      case "cheese": {
+      case 'cheese': {
         return new NYCheesePizza();
       }
       default:

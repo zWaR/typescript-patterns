@@ -4,7 +4,7 @@ import { DoughBase,
   CheeseBase,
   PepperoniBase,
   ClamsBase
-} from '.';
+} from '..';
 
 export abstract class PizzaBase {
 
