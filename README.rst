@@ -10,6 +10,7 @@ Featured Patterns
 
 - Factory Method (Virtual Constructor)
 - Abstract Factory (Kit)
+- Singleton
 
 Literature
 ==========
