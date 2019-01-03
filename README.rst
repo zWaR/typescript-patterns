@@ -11,6 +11,7 @@ Featured Patterns
 - Factory Method (Virtual Constructor)
 - Abstract Factory (Kit)
 - Singleton
+- Command (Action, Transaction)
 
 Literature
 ==========
