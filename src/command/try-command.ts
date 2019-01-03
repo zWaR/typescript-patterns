@@ -1,6 +1,6 @@
 import { Invoker } from './invoker';
 import { Light } from './receivers';
-import { LightOnCommand } from './commands/light-on-command';
+import { LightOnCommand } from './commands';
 
 class TryCommand {
 
