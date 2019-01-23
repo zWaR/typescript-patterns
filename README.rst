@@ -13,6 +13,7 @@ Featured Patterns
 - Singleton
 - Command (Action, Transaction)
 - Adapter (Wrapper)
+- Facade
 
 Literature
 ==========
