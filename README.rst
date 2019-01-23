@@ -12,6 +12,7 @@ Featured Patterns
 - Abstract Factory (Kit)
 - Singleton
 - Command (Action, Transaction)
+- Adapter (Wrapper)
 
 Literature
 ==========
